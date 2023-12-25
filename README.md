@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sohidul Islam Ananto
+- 🙋‍♂️ I’m a student (CSE)
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning React and DSA
 <!---
