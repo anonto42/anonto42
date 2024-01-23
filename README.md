@@ -2,4 +2,4 @@
 - 🙋‍♂️ I’m a student (CSE)
 - ✨ I’m interested in software development
 - 🌱 I’m currently learning DSA (java)
-- 💻 I know frontend web developer in React.js
+- 💻 I,m frontend web developer in React.js
