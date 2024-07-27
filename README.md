@@ -1,5 +1,5 @@
-- 👋 Hello, My name Sohidul Islam Ananto
+- 👋 Hello, My name is Sohidul Islam Ananto
 - 🙋‍♂️ I’m a student (CSE)
 - ✨ I’m interested in software development
 - 🌱 I’m currently learning DSA (java)
-- 💻 I,m frontend web developer in React.js
+- 💻 I,m MERN Stack Developer
