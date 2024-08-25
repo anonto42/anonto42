@@ -1,5 +1,5 @@
 - 👋 Hello, My name is Sohidul Islam Ananto
 - 🙋‍♂️ I’m a student (CSE)
-- ✨ I’m interested in IOT development
+- ✨ I’m interested in SOS
 - 🌱 I’m currently learning DSA
 - 💻 I,m MERN Stack Developer
