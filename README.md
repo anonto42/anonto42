@@ -1,4 +1,4 @@
-<h2 align="left">Hi My name is Sohidul Islam Ananto and I'm a web application developer from Dhaka, Narayanganj.</h2>
+<h2 align="left">Hi My name is Sohidul Islam Ananto and I'm a full-stack developer.</h2>
 
 ###
 
